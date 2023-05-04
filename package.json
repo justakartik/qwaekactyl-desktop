@@ -13,7 +13,7 @@
     "url": "https://github.com/justakartik/qwaekactyl-desktop"
   },
   "author": "justakartik - Qwaekactyl",
-  "license": "GNU GENERAL PUBLIC LICENSE",
+  "license": "GPL-3.0-only",
   "devDependencies": {
     "electron": "^24.1.3",
     "electron-builder": "^23.6.0",
